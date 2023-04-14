@@ -1,0 +1,10 @@
+tensorflow==2.12.*
+langchain==0.0.137
+faiss-cpu
+llama-cpp-python
+pyllamacpp
+PyPDF2
+tensorflow-text
+huggingface_hub
+
+
