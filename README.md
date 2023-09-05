@@ -19,7 +19,8 @@ $ pip install -r requirements.txt
 
 ### Step 4: Run the project
 In your terminal or command prompt, execute the following command:
-$python gpt4all.py || $python gpt4all_Jgroovy.py   "for jgrovvy model"
+$python gpt4all.py
+$python gpt4all_Jgroovy.py   "for jgrovvy model"
 
 This will start the project and open the GUI interface for Extractive Query Answering.
 Please note that you need to have Python and Git installed on your system, and the project dependencies will be installed via pip using the provided requirements.txt file.
